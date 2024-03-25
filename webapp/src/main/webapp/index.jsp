@@ -1,4 +1,5 @@
 <form action="/action_page.php">
+    <h1> benja kuneepong </h1>
     <h2>Register Form</h2>
     <div class="input-container">
       <i class="fa fa-user icon"></i>
