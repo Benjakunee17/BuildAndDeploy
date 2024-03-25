@@ -1,5 +1,7 @@
 <form action="/action_page.php">
+    <h1> benja kuneepong </h1>
     <h2>Register Form</h2>
+    <h3>Input here</h3>
     <div class="input-container">
       <i class="fa fa-user icon"></i>
       <input class="input-field" type="text" placeholder="Username" name="usrnm">
