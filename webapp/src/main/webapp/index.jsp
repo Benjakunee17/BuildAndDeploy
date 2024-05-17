@@ -1,6 +1,6 @@
 <form action="/action_page.php">
     <h1> Create By benja kuneepong (Ben) </h1>
-    <h2> Register Form </h2>
+    <h2> Register Form test test test</h2>
     <div class="input-container">
       <i class="fa fa-user icon"></i>
       <input class="input-field" type="text" placeholder="Username" name="usrnm">
